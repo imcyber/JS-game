@@ -1,2 +1,1 @@
-# Jogo de naves feito em javascript #
-Ainda terminando o game..
+# Mini-game feito em javascript #
